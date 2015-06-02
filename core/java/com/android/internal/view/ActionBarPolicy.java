@@ -43,7 +43,7 @@ public class ActionBarPolicy {
     }
 
     public boolean showsOverflowMenuButton() {
-        return true;
+        return false;
     }
 
     public int getEmbeddedMenuWidthLimit() {
